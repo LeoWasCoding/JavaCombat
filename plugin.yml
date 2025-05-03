@@ -1,0 +1,6 @@
+name: JavaCombat
+main: JavaCombat\Main
+version: 1.0.0
+api: [5.0.0]
+description: "Java Edition style combat system with cooldowns, sweeping edge, and action bar indicators."
+author: LeoWasCoding
