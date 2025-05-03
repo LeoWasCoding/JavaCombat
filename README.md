@@ -3,6 +3,7 @@
 **JavaCombat** brings authentic Java Edition-style combat mechanics to your PocketMine-MP server.
 
 > *The one and only Java-style combat system for PocketMine.*
+> ## [Download The Latest Stable Release](https://poggit.pmmp.io/r/255587/JavaCombat_dev-2.phar)
 
 ---
 
@@ -51,15 +52,6 @@ Players receive a visual indicator in their action bar representing their curren
 
 * Full bar = Full damage + sweeping attack (if using a sword)
 * Partial bar = Scaled-down damage
-
----
-
-## Developer Info
-
-* **Plugin Name:** JavaCombat
-* **Author:** `LeoWasCoding`
-* **API Version:** PocketMine-MP 5.x
-* **License:** MIT
 
 ---
 
