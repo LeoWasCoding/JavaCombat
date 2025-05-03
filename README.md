@@ -1,5 +1,3 @@
----
-
 # JavaCombat
 
 **JavaCombat** brings authentic Java Edition-style combat mechanics to your PocketMine-MP server.
