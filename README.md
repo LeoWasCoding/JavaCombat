@@ -4,7 +4,7 @@
 
 **JavaCombat** brings authentic Java Edition-style combat mechanics to your PocketMine-MP server — including attack cooldowns, sweeping edge attacks, weapon damage scaling, and visual cooldown indicators via the action bar.
 
-> *The one and only Java-style combat system for PocketMine.*
+*The one and only Java-style combat system for PocketMine.*
 
 ---
 
